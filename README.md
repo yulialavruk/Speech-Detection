@@ -1,2 +1,15 @@
 # Speech-Detection
  Speech recognition in the browser with JavaScript API
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Speech</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+	<div class="words" contenteditable></div>
+	<script src="main.js">
+	</script>
+</body>
+</html>
